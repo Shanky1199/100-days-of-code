@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: june 4 , 2020 (BEATKEYS)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Tried to revise the javascript baiscs. made a small sample from js30 challenge
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. javascript is fun but I guess it will take time to really be expert at it. 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
