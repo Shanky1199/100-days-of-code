@@ -6,7 +6,7 @@
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. javascript is fun but I guess it will take time to really be expert at it. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
